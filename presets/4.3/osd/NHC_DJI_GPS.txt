@@ -1,0 +1,30 @@
+#$ TITLE: NHC - DJI with GPS
+#$ FIRMWARE_VERSION: 4.3
+#$ CATEGORY: OSD
+#$ STATUS: OFFICIAL
+#$ KEYWORDS: DJI, GPS
+#$ AUTHOR: nhc.fpv
+
+#$ PARSER: MARKED
+
+#$ DESCRIPTION: Just another drone pilot
+#$ DESCRIPTION: 
+#$ DESCRIPTION: Information:
+#$ DESCRIPTION: -----------
+#$ DESCRIPTION: General DJI **with GPS** OSD setup.  Make sure to have Custom OSD enabled in your DJI Goggles for Betaflight elements to display.
+#$ DESCRIPTION: 
+#$ DESCRIPTION: OSD Elements Include:
+#$ DESCRIPTION: -----------
+#$ DESCRIPTION: Vbat, Amps, mAh drawn, Armed Time, Time Remaining, VTX Channel, VTX Power, Uplink Power, RSSI, etc...
+#$ DESCRIPTION: 
+#$ DISCUSSION: 
+#$ INCLUDE: presets/4.3/osd/defaults.txt
+
+set osd_vbat_pos = 2209
+set osd_mah_drawn_pos = 2272
+set osd_gps_speed_pos = 2544
+set osd_gps_sats_pos = 2539
+set osd_home_dir_pos = 2190
+set osd_home_dist_pos = 2533
+set osd_altitude_pos = 2112
+set osd_avg_cell_voltage_pos = 2241
