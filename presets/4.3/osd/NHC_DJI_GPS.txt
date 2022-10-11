@@ -15,7 +15,7 @@
 #$ DESCRIPTION: 
 #$ DESCRIPTION: OSD Elements Include:
 #$ DESCRIPTION: -----------
-#$ DESCRIPTION: Vbat, Amps, mAh drawn, Armed Time, Time Remaining, VTX Channel, VTX Power, Uplink Power, RSSI, etc...
+#$ DESCRIPTION: Vbat, mAh drawn, GPS speed, GPS sats, Home Dir, Home Dist, Altitude, avgCellVoltage
 #$ DESCRIPTION: 
 #$ DISCUSSION: 
 #$ INCLUDE: presets/4.3/osd/defaults.txt
