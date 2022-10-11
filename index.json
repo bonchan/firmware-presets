@@ -818,8 +818,8 @@
     },
     {
       "fullPath": "presets/4.3/modes/NHC_MODES.txt",
-      "hash": "8108a96f4bcacc045538ff8fd25558bf618132a1ef6a0c4378a3628cc6bbabd4",
-      "title": "Default 4.3 Modes and Adjustment settings",
+      "hash": "0bb632c11a63dd6afe5b78b492a70c3d100cdd4e556761ed8eb5f8b3d25b9f73",
+      "title": "NHC - 4.3 Modes and Adjustment settings",
       "firmware_version": [
         "4.3"
       ],
