@@ -9,7 +9,7 @@
 #$ PRIORITY: 0
 
 
-
+# master
 set serialrx_provider = CRSF
 set beeper_dshot_beacon_tone = 4
 set yaw_motors_reversed = ON
@@ -18,3 +18,6 @@ set deadband = 5
 set yaw_deadband = 5
 
 
+# beacon
+beacon RX_LOST
+beacon RX_SET

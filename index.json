@@ -974,6 +974,21 @@
       "priority": 0
     },
     {
+      "fullPath": "presets/4.3/other/NHC_GPS.txt",
+      "hash": "96fc6d454039e7af6ad98d5444149c1e70831c886ab4ab40cde54b8963c811b9",
+      "title": "NHC - GPS settings",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "OTHER",
+      "status": "OFFICIAL",
+      "keywords": [
+        "GPS"
+      ],
+      "author": "nhc.fpv",
+      "priority": 0
+    },
+    {
       "fullPath": "presets/4.3/other/reset_blackbox.txt",
       "hash": "30dc088a9a24dbbbea774d4d23eb29be85da9f4a78844e23e8b4ae7ff49bd090",
       "title": "Reset 4.3 Blackbox settings",
@@ -2648,7 +2663,7 @@
     },
     {
       "fullPath": "presets/4.3/tune/NHC_tune.txt",
-      "hash": "1638b763083d165f1ecdf6f56ff76e95a69af75fda25f62415b93a714ed75685",
+      "hash": "7cc6d5924f391a39fefbc3b395c031ffa2cbaf9a8b1370040acf109fae9ec880",
       "title": "NHC - TUNE defaults",
       "firmware_version": [
         "4.3"

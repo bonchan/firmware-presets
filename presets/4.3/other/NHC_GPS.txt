@@ -1,0 +1,15 @@
+#$ TITLE: NHC - GPS settings
+#$ FIRMWARE_VERSION: 4.3
+#$ CATEGORY: OTHER
+#$ STATUS: OFFICIAL
+#$ KEYWORDS: GPS
+#$ AUTHOR: nhc.fpv
+#$ DESCRIPTION: Just sets gps to UBLOX
+
+#$ INCLUDE: presets/4.3/other/reset_gps.txt
+
+# feature
+feature GPS
+
+# master
+set gps_provider = UBLOX
