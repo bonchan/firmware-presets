@@ -1,0 +1,20 @@
+#$ TITLE:  NHC - TUNE defaults
+#$ FIRMWARE_VERSION: 4.3
+#$ CATEGORY: TUNE
+#$ STATUS: OFFICIAL
+#$ KEYWORDS: defaults, reset, tune, pid, basic, default
+#$ AUTHOR: nhc.fpv
+#$ DESCRIPTION: Sets CRSF, beacon, propsOut, arming at 180 and 5 deadband
+#$ DESCRIPTION: DOES NOT reset rates, filters, rc_smoothing, and many other parameters.
+#$ PRIORITY: 0
+
+
+
+set serialrx_provider = CRSF
+set beeper_dshot_beacon_tone = 4
+set yaw_motors_reversed = ON
+set small_angle = 180
+set deadband = 5
+set yaw_deadband = 5
+
+

@@ -2647,6 +2647,26 @@
       "priority": 1000000000000
     },
     {
+      "fullPath": "presets/4.3/tune/NHC_tune.txt",
+      "hash": "1638b763083d165f1ecdf6f56ff76e95a69af75fda25f62415b93a714ed75685",
+      "title": "NHC - TUNE defaults",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "TUNE",
+      "status": "OFFICIAL",
+      "keywords": [
+        "defaults",
+        "reset",
+        "tune",
+        "pid",
+        "basic",
+        "default"
+      ],
+      "author": "nhc.fpv",
+      "priority": 0
+    },
+    {
       "fullPath": "presets/4.3/tune/reset_all.txt",
       "hash": "fb70b2b4e948426b0c85914451e9d6b1d0dc9c95b2aa5b72718f7b291f44e299",
       "title": "Reset 4.3 Tune parameters, complete listing",
