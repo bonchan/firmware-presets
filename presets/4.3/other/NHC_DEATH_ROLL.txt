@@ -1,0 +1,9 @@
+#$ TITLE: NHC - Death Roll correction
+#$ FIRMWARE_VERSION: 4.3
+#$ CATEGORY: OTHER
+#$ STATUS: OFFICIAL
+#$ KEYWORDS: Configure
+#$ AUTHOR: nhc.fpv
+#$ DESCRIPTION: removes runaway_takeoff_prevention 
+
+Set runaway_takeoff_prevention = OFF
